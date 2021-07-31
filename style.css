@@ -1,0 +1,35 @@
+#color{
+    width: 100%;
+    margin: 0px;
+    box-shadow: 20px 20px 20px orangered;
+    font-size: 24px;
+}
+.blue{
+    color: rgb(248, 244, 14);
+    font-size: 15px;
+}
+#gum{
+position: fixed;
+color: rosybrown;
+bottom: 0px;
+font-size: 25px;
+text-align: center;
+background-color: rgb(253, 7, 23);
+width: 100%;
+
+}
+canvas{
+ box-shadow: 20px 10px 30px rgb(255, 8, 49);
+ border: 5px solid rgb(10, 73, 246);
+}
+#header{
+    width: 100%;
+    margin: 0px; 
+    font-size: 25px;
+}
+video{
+border:5px solid royalblue ;
+border-radius: 300px;
+box-shadow: 20px 10px 30px rgb(255, 8, 49);
+
+}
